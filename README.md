@@ -2,8 +2,7 @@
 
 ## THIS IS A MESSAGE TO STAFF MEMBERS
 
-Welcome to E Roblox Asset's High Staffing Private Github Repository
-You can start with editing whitelist for now.
+How to edit whitelist?
 
 Copy with these lines to whitelist for now:
 		[user_id] = {
