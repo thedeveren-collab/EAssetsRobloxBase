@@ -56,9 +56,6 @@ return {
 			},
 			reason = "Threatening to steal assets.",
 		},
-	}
-}
-Blacklist = {
 		[3159670556] = {
 			products = {
 				[111] = "AdBoard V1", -- No whitelisting system
@@ -66,3 +63,6 @@ Blacklist = {
 				[142] = "PlaylistScript V1.4",
 			},
 			reason = "Possibility of being underage - Join the Discoard Server for more information. .gg/U2ybCPxU57", 
+		},
+	}
+}
