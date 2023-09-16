@@ -1,5 +1,5 @@
 return {
-	Whitelist = {
+	["Whitelist"] = {
 		[1518941214] = {
 			-- co-owner of assets
 			products = {
@@ -39,7 +39,7 @@ return {
 			},
 		},
 	},
-	Blacklist = {
+	["Blacklist"] = {
 		[3177378056] = {
 			products = {
 				[111] = "AdBoard V1", -- No whitelisting system
