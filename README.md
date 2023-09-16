@@ -1,4 +1,6 @@
-# Staffing Base
+# Base
+
+## THIS IS A MESSAGE TO STAFF MEMBERS
 
 Welcome to E Roblox Asset's High Staffing Private Github Repository
 You can start with editing whitelist for now.
