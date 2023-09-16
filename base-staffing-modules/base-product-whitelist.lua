@@ -1,4 +1,4 @@
---return {
+return {
 	Whitelist = {
 		[1518941214] = {
 			-- co-owner of assets
@@ -65,4 +65,4 @@
 			reason = "Possibility of being underage - Join the Discoard Server for more information. .gg/U2ybCPxU57", 
 		},
 	}
---}
+}
