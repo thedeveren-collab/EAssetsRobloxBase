@@ -40,14 +40,6 @@ return {
 		},
 	},
 	Blacklist = {
-        ["North_Korea"] = {
-            products = {
-                [111] = "AdBoard V1", -- No whitelisting system
-                [112] = "AdBoard V1 Premium", -- No whitelisting system
-                [142] = "PlaylistScript V1.4",
-            },
-            reason = "why",
-        },
 		[3177378056] = {
 			products = {
 				[111] = "AdBoard V1", -- No whitelisting system
