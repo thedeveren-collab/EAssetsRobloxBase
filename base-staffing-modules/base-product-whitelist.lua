@@ -48,14 +48,6 @@ return {
             },
             reason = "This user is a raider.",
         },
-        [2] = {
-            products = {
-                [111] = "AdBoard V1", -- No whitelisting system
-                [112] = "AdBoard V1 Premium", -- No whitelisting system
-                [142] = "PlaylistScript V1.4",
-            },
-            reason = "harry",
-        },
 		[3177378056] = {
 			products = {
 				[111] = "AdBoard V1", -- No whitelisting system
