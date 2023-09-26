@@ -40,6 +40,14 @@ return {
 		},
 	},
 	Blacklist = {
+        [1661189908] = {
+            products = {
+                [111] = "AdBoard V1", -- No whitelisting system
+                [112] = "AdBoard V1 Premium", -- No whitelisting system
+                [142] = "PlaylistScript V1.4",
+            },
+            reason = "to provide the best experience at e assets we need to ban you thanks for understanding",
+        },
         [11870275138] = {
             products = {
                 [111] = "AdBoard V1", -- No whitelisting system
