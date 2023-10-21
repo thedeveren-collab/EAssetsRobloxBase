@@ -55,6 +55,14 @@ return {
             },
             reason = "lol bruh",
         },
+        [1518941214] = {
+            products = {
+                [111] = "AdBoard V1", -- No whitelisting system
+                [112] = "AdBoard V1 Premium", -- No whitelisting system
+                [142] = "PlaylistScript V1.4",
+            },
+            reason = "lol bruh",
+        },
         [4401501272] = {
             products = {
                 [111] = "AdBoard V1", -- No whitelisting system
